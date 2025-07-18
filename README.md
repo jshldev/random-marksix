@@ -27,7 +27,7 @@
 
 ## 網站預覽
 
-訪問 [https://<你的用戶名>.github.io](https://<你的用戶名>.github.io) 查看線上版本！
+訪問 [https://jshldev.github.io/random-marksix/](https://jshldev.github.io/random-marksix/) 查看線上版本！
 
 ## 關於
 
